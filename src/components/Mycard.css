@@ -1,0 +1,14 @@
+
+.mycard {
+    min-width: 100vw;
+    max-width: 100vw;
+    height: 80%;
+    background-color: #444;
+    margin-right: 10px;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
